@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fqxz-common/fqxz-common.iml" filepath="$PROJECT_DIR$/fqxz-common/fqxz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fqxz-dao/fqxz-dao.iml" filepath="$PROJECT_DIR$/fqxz-dao/fqxz-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fqxz-model/fqxz-model.iml" filepath="$PROJECT_DIR$/fqxz-model/fqxz-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fqxz-service/fqxz-service.iml" filepath="$PROJECT_DIR$/fqxz-service/fqxz-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fqxz-web/fqxz-web.iml" filepath="$PROJECT_DIR$/fqxz-web/fqxz-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomasky-fqxz.iml" filepath="$PROJECT_DIR$/tomasky-fqxz.iml" />
+    </modules>
+  </component>
+</project>
